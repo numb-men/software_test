@@ -1,0 +1,1198 @@
+
+
+【超时重测： 031702113: cpp: D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe】
+【时间：2019.10.08 at 10:08:47】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 3 -n 1 -i D:/code/java/software_test/test_case/3/input1.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_3_1.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_3_1.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:47】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 3 -n 1 -i D:/code/java/software_test/test_case/3/input2.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_3_2.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_3_2.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:48】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 3 -n 1 -i D:/code/java/software_test/test_case/3/input3.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_3_3.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_3_3.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:48】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 3 -n 5 -i D:/code/java/software_test/test_case/3/input4.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_3_4.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/5
+提示：正在检查第2盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：2/5
+提示：正在检查第3盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：3/5
+提示：正在检查第4盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：4/5
+提示：正在检查第5盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：5/5
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_3_4.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:48】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 3 -n 10 -i D:/code/java/software_test/test_case/3/input5.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_3_5.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/10
+提示：正在检查第2盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：2/10
+提示：正在检查第3盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：3/10
+提示：正在检查第4盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：4/10
+提示：正在检查第5盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：5/10
+提示：正在检查第6盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：6/10
+提示：正在检查第7盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：7/10
+提示：正在检查第8盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：8/10
+提示：正在检查第9盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：9/10
+提示：正在检查第10盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：10/10
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_3_5.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:48】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 4 -n 1 -i D:/code/java/software_test/test_case/4/input1.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_4_1.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_4_1.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:49】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 4 -n 1 -i D:/code/java/software_test/test_case/4/input2.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_4_2.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_4_2.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:49】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 4 -n 1 -i D:/code/java/software_test/test_case/4/input3.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_4_3.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_4_3.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:49】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 4 -n 5 -i D:/code/java/software_test/test_case/4/input4.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_4_4.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/5
+提示：正在检查第2盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：2/5
+提示：正在检查第3盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：3/5
+提示：正在检查第4盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：4/5
+提示：正在检查第5盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：5/5
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_4_4.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:49】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 4 -n 10 -i D:/code/java/software_test/test_case/4/input5.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_4_5.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/10
+提示：正在检查第2盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：2/10
+提示：正在检查第3盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：3/10
+提示：正在检查第4盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：4/10
+提示：正在检查第5盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：5/10
+提示：正在检查第6盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：6/10
+提示：正在检查第7盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：7/10
+提示：正在检查第8盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：8/10
+提示：正在检查第9盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：9/10
+提示：正在检查第10盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：10/10
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_4_5.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:49】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 5 -n 1 -i D:/code/java/software_test/test_case/5/input1.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_5_1.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_5_1.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:50】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 5 -n 1 -i D:/code/java/software_test/test_case/5/input2.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_5_2.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_5_2.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:50】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 5 -n 1 -i D:/code/java/software_test/test_case/5/input3.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_5_3.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_5_3.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:50】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 5 -n 5 -i D:/code/java/software_test/test_case/5/input4.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_5_4.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/5
+提示：正在检查第2盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：2/5
+提示：正在检查第3盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：3/5
+提示：正在检查第4盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：4/5
+提示：正在检查第5盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：5/5
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_5_4.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:50】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 5 -n 10 -i D:/code/java/software_test/test_case/5/input5.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_5_5.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/10
+提示：正在检查第2盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：2/10
+提示：正在检查第3盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：3/10
+提示：正在检查第4盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：4/10
+提示：正在检查第5盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：5/10
+提示：正在检查第6盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：6/10
+提示：正在检查第7盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：7/10
+提示：正在检查第8盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：8/10
+提示：正在检查第9盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：9/10
+提示：正在检查第10盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：10/10
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_5_5.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:51】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 6 -n 1 -i D:/code/java/software_test/test_case/6/input1.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_6_1.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_6_1.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:51】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 6 -n 1 -i D:/code/java/software_test/test_case/6/input2.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_6_2.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_6_2.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:51】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 6 -n 1 -i D:/code/java/software_test/test_case/6/input3.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_6_3.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_6_3.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:52】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 6 -n 5 -i D:/code/java/software_test/test_case/6/input4.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_6_4.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/5
+提示：正在检查第2盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：2/5
+提示：正在检查第3盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：3/5
+提示：正在检查第4盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：4/5
+提示：正在检查第5盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：5/5
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_6_4.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:52】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 6 -n 10 -i D:/code/java/software_test/test_case/6/input5.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_6_5.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/10
+提示：正在检查第2盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：2/10
+提示：正在检查第3盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：3/10
+提示：正在检查第4盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：4/10
+提示：正在检查第5盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：5/10
+提示：正在检查第6盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：6/10
+提示：正在检查第7盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：7/10
+提示：正在检查第8盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：8/10
+提示：正在检查第9盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：9/10
+提示：正在检查第10盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：10/10
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_6_5.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:52】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 7 -n 1 -i D:/code/java/software_test/test_case/7/input1.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_7_1.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_7_1.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:53】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 7 -n 1 -i D:/code/java/software_test/test_case/7/input2.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_7_2.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_7_2.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:53】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 7 -n 1 -i D:/code/java/software_test/test_case/7/input3.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_7_3.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_7_3.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:53】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 7 -n 5 -i D:/code/java/software_test/test_case/7/input4.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_7_4.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/5
+提示：正在检查第2盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：2/5
+提示：正在检查第3盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：3/5
+提示：正在检查第4盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：4/5
+提示：正在检查第5盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：5/5
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_7_4.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:56】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 7 -n 10 -i D:/code/java/software_test/test_case/7/input5.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_7_5.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/10
+提示：正在检查第2盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：2/10
+提示：正在检查第3盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：3/10
+提示：正在检查第4盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：4/10
+提示：正在检查第5盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：5/10
+提示：正在检查第6盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：6/10
+提示：正在检查第7盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：7/10
+提示：正在检查第8盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：8/10
+提示：正在检查第9盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：9/10
+提示：正在检查第10盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：10/10
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_7_5.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:56】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 8 -n 1 -i D:/code/java/software_test/test_case/8/input1.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_8_1.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_8_1.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:57】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 8 -n 1 -i D:/code/java/software_test/test_case/8/input2.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_8_2.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_8_2.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:57】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 8 -n 1 -i D:/code/java/software_test/test_case/8/input3.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_8_3.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_8_3.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:08:59】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 8 -n 5 -i D:/code/java/software_test/test_case/8/input4.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_8_4.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/5
+提示：正在检查第2盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：2/5
+提示：正在检查第3盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：3/5
+提示：正在检查第4盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：4/5
+提示：正在检查第5盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：5/5
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_8_4.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:09:03】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 8 -n 10 -i D:/code/java/software_test/test_case/8/input5.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_8_5.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/10
+提示：正在检查第2盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：2/10
+提示：正在检查第3盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：3/10
+提示：正在检查第4盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：4/10
+提示：正在检查第5盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：5/10
+提示：正在检查第6盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：6/10
+提示：正在检查第7盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：7/10
+提示：正在检查第8盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：8/10
+提示：正在检查第9盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：9/10
+提示：正在检查第10盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：10/10
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_8_5.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:09:05】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 9 -n 1 -i D:/code/java/software_test/test_case/9/input1.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_9_1.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_9_1.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:09:06】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 9 -n 1 -i D:/code/java/software_test/test_case/9/input2.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_9_2.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_9_2.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:09:07】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 9 -n 1 -i D:/code/java/software_test/test_case/9/input3.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_9_3.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/1
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_9_3.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:09:19】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 9 -n 5 -i D:/code/java/software_test/test_case/9/input4.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_9_4.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/5
+提示：正在检查第2盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：2/5
+提示：正在检查第3盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：3/5
+提示：正在检查第4盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：4/5
+提示：正在检查第5盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：5/5
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_9_4.txt
+提示：处理已完成
+【结果： 0】
+
+【时间：2019.10.08 at 10:10:09】
+【指令：D:\code\java\software_test\repo\unzip\031702113\Sudoku.exe -m 9 -n 10 -i D:/code/java/software_test/test_case/9/input5.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_9_5.txt】
+【指令输出】
+提示：正在检查第1盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：1/10
+提示：正在检查第2盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：2/10
+提示：正在检查第3盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：3/10
+提示：正在检查第4盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：4/10
+提示：正在检查第5盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：5/10
+提示：正在检查第6盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：6/10
+提示：正在检查第7盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：7/10
+提示：正在检查第8盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：8/10
+提示：正在检查第9盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：9/10
+提示：正在检查第10盘面
+提示：检查完毕，盘面合法
+提示：开始搜索解，请耐心等待
+提示：处理进度：10/10
+提示：输出数据已保存到 D:/code/java/software_test/repo/unzip/031702113/output/output_1_9_5.txt
+提示：处理已完成
+【结果： 0】
+
+
+【不兼容重测： 031702114: cpp: D:\code\java\software_test\repo\unzip\031702114\Sudoku.exe】
+
+D:\code\java\software_test\repo\unzip\031702114\Sudoku.exe -m 3 -n 1 -i D:/code/java/software_test/test_case/3/input1.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_3_1.txt
+
+【测试超时】
+
+
+
+
+【不兼容重测： 031702338: cpp: D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe】
+【时间：2019.10.08 at 10:50:23】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 3 -n 1 -i D:/code/java/software_test/test_case/3/input1.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_3_1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:23】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 3 -n 1 -i D:/code/java/software_test/test_case/3/input2.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_3_2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:24】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 3 -n 1 -i D:/code/java/software_test/test_case/3/input3.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_3_3.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:24】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 3 -n 5 -i D:/code/java/software_test/test_case/3/input4.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_3_4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:24】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 3 -n 10 -i D:/code/java/software_test/test_case/3/input5.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_3_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:25】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 4 -n 1 -i D:/code/java/software_test/test_case/4/input1.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_4_1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:25】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 4 -n 1 -i D:/code/java/software_test/test_case/4/input2.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_4_2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:25】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 4 -n 1 -i D:/code/java/software_test/test_case/4/input3.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_4_3.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:26】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 4 -n 5 -i D:/code/java/software_test/test_case/4/input4.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_4_4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:26】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 4 -n 10 -i D:/code/java/software_test/test_case/4/input5.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_4_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:26】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 5 -n 1 -i D:/code/java/software_test/test_case/5/input1.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_5_1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:27】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 5 -n 1 -i D:/code/java/software_test/test_case/5/input2.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_5_2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:27】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 5 -n 1 -i D:/code/java/software_test/test_case/5/input3.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_5_3.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:27】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 5 -n 5 -i D:/code/java/software_test/test_case/5/input4.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_5_4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:28】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 5 -n 10 -i D:/code/java/software_test/test_case/5/input5.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_5_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:28】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 6 -n 1 -i D:/code/java/software_test/test_case/6/input1.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_6_1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:28】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 6 -n 1 -i D:/code/java/software_test/test_case/6/input2.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_6_2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:29】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 6 -n 1 -i D:/code/java/software_test/test_case/6/input3.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_6_3.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:29】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 6 -n 5 -i D:/code/java/software_test/test_case/6/input4.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_6_4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:29】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 6 -n 10 -i D:/code/java/software_test/test_case/6/input5.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_6_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:30】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 7 -n 1 -i D:/code/java/software_test/test_case/7/input1.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_7_1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:30】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 7 -n 1 -i D:/code/java/software_test/test_case/7/input2.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_7_2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:30】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 7 -n 1 -i D:/code/java/software_test/test_case/7/input3.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_7_3.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:31】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 7 -n 5 -i D:/code/java/software_test/test_case/7/input4.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_7_4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:31】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 7 -n 10 -i D:/code/java/software_test/test_case/7/input5.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_7_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:31】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 8 -n 1 -i D:/code/java/software_test/test_case/8/input1.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_8_1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:32】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 8 -n 1 -i D:/code/java/software_test/test_case/8/input2.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_8_2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:32】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 8 -n 1 -i D:/code/java/software_test/test_case/8/input3.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_8_3.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:32】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 8 -n 5 -i D:/code/java/software_test/test_case/8/input4.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_8_4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:33】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 8 -n 10 -i D:/code/java/software_test/test_case/8/input5.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_8_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:33】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 9 -n 1 -i D:/code/java/software_test/test_case/9/input1.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_9_1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:33】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 9 -n 1 -i D:/code/java/software_test/test_case/9/input2.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_9_2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:33】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 9 -n 1 -i D:/code/java/software_test/test_case/9/input3.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_9_3.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:34】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 9 -n 5 -i D:/code/java/software_test/test_case/9/input4.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_9_4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:50:34】
+【指令：D:\code\java\software_test\repo\unzip\031702338\Sudoku.exe -m 9 -n 10 -i D:/code/java/software_test/test_case/9/input5.txt -o D:/code/java/software_test/repo/unzip/031702338/output/output_1_9_5.txt】
+【指令输出】
+【结果： 0】
+
+
+【不兼容重测： 071703323: cpp: D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe】
+【时间：2019.10.08 at 10:57:55】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 3 -n 1 -i D:/code/java/software_test/test_case/3/input1.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_3_1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:57:56】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 3 -n 1 -i D:/code/java/software_test/test_case/3/input2.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_3_2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:57:56】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 3 -n 1 -i D:/code/java/software_test/test_case/3/input3.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_3_3.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:57:56】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 3 -n 5 -i D:/code/java/software_test/test_case/3/input4.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_3_4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:57:56】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 3 -n 10 -i D:/code/java/software_test/test_case/3/input5.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_3_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:57:57】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 3 -n 10 -i D:/code/java/software_test/test_case2/3/input5.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_2_3_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:57:57】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 4 -n 1 -i D:/code/java/software_test/test_case/4/input1.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_4_1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:57:57】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 4 -n 1 -i D:/code/java/software_test/test_case/4/input2.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_4_2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:57:57】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 4 -n 1 -i D:/code/java/software_test/test_case/4/input3.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_4_3.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:57:58】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 4 -n 5 -i D:/code/java/software_test/test_case/4/input4.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_4_4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:57:58】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 4 -n 10 -i D:/code/java/software_test/test_case/4/input5.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_4_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:57:58】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 4 -n 10 -i D:/code/java/software_test/test_case2/4/input5.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_2_4_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:57:58】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 5 -n 1 -i D:/code/java/software_test/test_case/5/input1.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_5_1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:57:59】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 5 -n 1 -i D:/code/java/software_test/test_case/5/input2.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_5_2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:57:59】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 5 -n 1 -i D:/code/java/software_test/test_case/5/input3.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_5_3.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:57:59】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 5 -n 5 -i D:/code/java/software_test/test_case/5/input4.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_5_4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:57:59】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 5 -n 10 -i D:/code/java/software_test/test_case/5/input5.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_5_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:00】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 5 -n 10 -i D:/code/java/software_test/test_case2/5/input5.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_2_5_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:00】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 6 -n 1 -i D:/code/java/software_test/test_case/6/input1.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_6_1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:00】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 6 -n 1 -i D:/code/java/software_test/test_case/6/input2.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_6_2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:01】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 6 -n 1 -i D:/code/java/software_test/test_case/6/input3.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_6_3.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:01】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 6 -n 5 -i D:/code/java/software_test/test_case/6/input4.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_6_4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:01】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 6 -n 10 -i D:/code/java/software_test/test_case/6/input5.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_6_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:01】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 6 -n 10 -i D:/code/java/software_test/test_case2/6/input5.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_2_6_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:02】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 7 -n 1 -i D:/code/java/software_test/test_case/7/input1.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_7_1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:02】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 7 -n 1 -i D:/code/java/software_test/test_case/7/input2.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_7_2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:02】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 7 -n 1 -i D:/code/java/software_test/test_case/7/input3.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_7_3.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:02】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 7 -n 5 -i D:/code/java/software_test/test_case/7/input4.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_7_4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:03】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 7 -n 10 -i D:/code/java/software_test/test_case/7/input5.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_7_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:03】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 7 -n 10 -i D:/code/java/software_test/test_case2/7/input5.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_2_7_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:03】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 8 -n 1 -i D:/code/java/software_test/test_case/8/input1.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_8_1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:04】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 8 -n 1 -i D:/code/java/software_test/test_case/8/input2.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_8_2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:04】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 8 -n 1 -i D:/code/java/software_test/test_case/8/input3.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_8_3.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:04】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 8 -n 5 -i D:/code/java/software_test/test_case/8/input4.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_8_4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:04】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 8 -n 10 -i D:/code/java/software_test/test_case/8/input5.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_8_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:05】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 8 -n 10 -i D:/code/java/software_test/test_case2/8/input5.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_2_8_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:05】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 9 -n 1 -i D:/code/java/software_test/test_case/9/input1.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_9_1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:05】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 9 -n 1 -i D:/code/java/software_test/test_case/9/input2.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_9_2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:05】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 9 -n 1 -i D:/code/java/software_test/test_case/9/input3.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_9_3.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:06】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 9 -n 5 -i D:/code/java/software_test/test_case/9/input4.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_9_4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:06】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 9 -n 10 -i D:/code/java/software_test/test_case/9/input5.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_1_9_5.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.10.08 at 10:58:07】
+【指令：D:\code\java\software_test\repo\unzip\071703323\Sudoku.exe -m 9 -n 10 -i D:/code/java/software_test/test_case2/9/input5.txt -o D:/code/java/software_test/repo/unzip/071703323/output/output_2_9_5.txt】
+【指令输出】
+【结果： 0】
+
+
+【不兼容重测： 031702325: cpp: D:\code\java\software_test\repo\unzip\031702325\Sudoku.exe】
+// vs版本不一致 > 2017
+
+// 错误   C4996   'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. Sudoku  d:\code\java\software_test\repo\unzip\031702325\031702325-master\sudoku\sudoku.cpp  20
+// 错误   C4996   'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. Sudoku  d:\code\java\software_test\repo\unzip\031702325\031702325-master\sudoku\sudoku.cpp  91
+// 编译失败
+
+
+【不兼容重测： 031702409: cpp: D:\code\java\software_test\repo\unzip\031702409\Sudoku.exe】
+// vs版本不一致 > 2017
+
+严重性 代码  说明  项目  项目级别    文件  行   源   禁止显示状态
+警告  C4244   “初始化”: 从“double”转换到“int”，可能丢失数据 Sudoku  1   d:\code\java\software_test\repo\unzip\031702409\2019softwareengineer-master\031702409\src\sudoku\sudoku.cpp 30  生成
+错误  C4996   'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. Sudoku  1   d:\code\java\software_test\repo\unzip\031702409\2019softwareengineer-master\031702409\src\sudoku\sudoku.cpp 130 生成
+错误  C4996   'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. Sudoku  1   d:\code\java\software_test\repo\unzip\031702409\2019softwareengineer-master\031702409\src\sudoku\sudoku.cpp 131 生成
+错误  C4996   'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.   Sudoku  1   d:\code\java\software_test\repo\unzip\031702409\2019softwareengineer-master\031702409\src\sudoku\sudoku.cpp 149 生成
+
+// 编译失败
+
+
+【不兼容重测： 031702337: cpp: D:\code\java\software_test\repo\unzip\031702337\Sudoku.exe】
+// vs版本不一致 < 2017
+// 错误	MSB4018	“NativeCodeAnalysis”任务意外失败。
+// Microsoft.VisualStudio.CodeAnalysis.AnalysisResults.AnalysisResultException: CA0001 : An unknown error occurred while running Code Analysis. ---> System.IO.DirectoryNotFoundException: 未能找到路径“C:\Program Files (x86)\Microsoft Visual Studio 14.0\Team Tools\Static Analysis Tools\Rule Sets\NativeRecommendedRules.ruleset”的一部分。
+//    在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+//    在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+//    在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+//    在 System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+//    在 System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+//    在 System.Xml.XmlTextReaderImpl.FinishInitUriString()
+//    在 System.Xml.XmlTextReaderImpl..ctor(String uriStr, XmlReaderSettings settings, XmlParserContext context, XmlResolver uriResolver)
+//    在 System.Xml.XmlReaderSettings.CreateReader(String inputUri, XmlParserContext inputContext)
+//    在 System.Xml.XmlReader.Create(String inputUri, XmlReaderSettings settings, XmlParserContext inputContext)
+//    在 Microsoft.VisualStudio.CodeAnalysis.RuleSets.RuleSetXmlProcessor.ReadFromFile(String filePath)
+//    在 Microsoft.VisualStudio.CodeAnalysis.RuleSets.RuleSet.LoadFromFile(String filePath, IEnumerable`1 ruleProviders)
+//    在 Microsoft.Build.Tasks.NativeCodeAnalysis.LoadRuleSet(String ruleSetFile)
+//    在 Microsoft.Build.Tasks.NativeCodeAnalysis.Execute()
+//    --- 内部异常堆栈跟踪的结尾 ---
+//    在 Microsoft.Build.Tasks.NativeCodeAnalysis.Execute()
+//    在 Microsoft.Build.BackEnd.TaskExecutionHost.Microsoft.Build.BackEnd.ITaskExecutionHost.Execute()
+//    在 Microsoft.Build.BackEnd.TaskBuilder.<ExecuteInstantiatedTask>d__26.MoveNext()	Sudoku	1	C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\CodeAnalysis\Microsoft.CodeAnalysis.targets	407	生成
+// 编译失败
+
+【不兼容重测： 031702536: cpp: D:\code\java\software_test\repo\unzip\031702536\sudoku.exe】
+// 编译成功
+// D:\code\java\software_test\repo\unzip\031702536\sudoku.exe -m 3 -n 1 -i D:/code/java/software_test/test_case/3/input1.txt -o D:/code/java/software_test/repo/unzip/031702113/output/output_1_3_1.txt
+// 测试超时

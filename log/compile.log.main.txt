@@ -1,0 +1,822 @@
+【开始编译021700325 cpp】
+【时间：2019.10.08 at 08:43:05】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/021700325/Sudoku.exe D:\code\java\software_test\repo\unzip\021700325\0217003525-master\Sudoku\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\021700325\0217003525-master\Sudoku\Sudoku\pch.h D:\code\java\software_test\repo\unzip\021700325\0217003525-master\Sudoku\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功021700325 cpp】
+
+【开始编译021700827 cpp】
+【时间：2019.10.08 at 08:43:11】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/021700827/Sudoku.exe D:\code\java\software_test\repo\unzip\021700827\021700827-master\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\021700827\021700827-master\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\021700827\021700827-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功021700827 cpp】
+
+【开始编译021700913 cpp】
+【时间：2019.10.08 at 08:43:17】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/021700913/Sudoku.exe D:\code\java\software_test\repo\unzip\021700913\021700913-master\src\数独\pch.cpp D:\code\java\software_test\repo\unzip\021700913\021700913-master\src\数独\pch.h D:\code\java\software_test\repo\unzip\021700913\021700913-master\src\数独\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功021700913 cpp】
+
+【开始编译031401402 java】
+【时间：2019.10.08 at 08:43:19】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031401402/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031401402/031401402-master/031401402/src/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031401402 java】
+
+【开始编译031602329 cpp】
+【时间：2019.10.08 at 08:43:21】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031602329/Sudoku.exe D:\code\java\software_test\repo\unzip\031602329\031602329-master\src\Sudoku\stdafx.cpp D:\code\java\software_test\repo\unzip\031602329\031602329-master\src\Sudoku\stdafx.h D:\code\java\software_test\repo\unzip\031602329\031602329-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+In file included from D:\code\java\software_test\repo\unzip\031602329\031602329-master\src\Sudoku\stdafx.cpp:5:0:
+D:\code\java\software_test\repo\unzip\031602329\031602329-master\src\Sudoku\stdafx.h:8:10: fatal error: targetver.h: No such file or directory
+ #include "targetver.h"
+          ^~~~~~~~~~~~~
+compilation terminated.
+D:\code\java\software_test\repo\unzip\031602329\031602329-master\src\Sudoku\stdafx.h:6:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+D:\code\java\software_test\repo\unzip\031602329\031602329-master\src\Sudoku\stdafx.h:8:10: fatal error: targetver.h: No such file or directory
+ #include "targetver.h"
+          ^~~~~~~~~~~~~
+compilation terminated.
+In file included from D:\code\java\software_test\repo\unzip\031602329\031602329-master\src\Sudoku\Sudoku.cpp:3:0:
+D:\code\java\software_test\repo\unzip\031602329\031602329-master\src\Sudoku\stdafx.h:8:10: fatal error: targetver.h: No such file or directory
+ #include "targetver.h"
+          ^~~~~~~~~~~~~
+compilation terminated.
+【结果： 1】
+【编译失败031602329 cpp】
+
+【开始编译031702101 cpp】
+【时间：2019.10.08 at 08:44:05】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702101/Sudoku.exe D:\code\java\software_test\repo\unzip\031702101\hello-world-master\031702101\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702101 cpp】
+
+【开始编译031702108 java】
+【时间：2019.10.08 at 08:44:07】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031702108/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031702108/031702108-master/src/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031702108 java】
+
+【开始编译031702112 cpp】
+【时间：2019.10.08 at 08:44:58】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702112/Sudoku.exe D:\code\java\software_test\repo\unzip\031702112\031702112-master\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702112\031702112-master\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702112\031702112-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702112 cpp】
+
+【开始编译031702113 cpp】
+【时间：2019.10.08 at 08:45:09】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702113/Sudoku.exe D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Koe.cpp D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Koe.h D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.h D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Sudoku.cpp D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\WaE.h】
+【指令输出】
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Koe.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp: In function 'void input(int, char**)':
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:59:9: error: 'strcmp' was not declared in this scope
+     if (strcmp(av[i], _m) == 0)
+         ^~~~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:59:9: note: suggested alternative: 'strtol'
+     if (strcmp(av[i], _m) == 0)
+         ^~~~~~
+         strtol
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:69:38: error: 'strcpy_s' was not declared in this scope
+     else if (strcmp(av[i], _in) == 0)strcpy_s(inpath, av[i + 1]), ipa = true;
+                                      ^~~~~~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:69:38: note: suggested alternative: 'wcscpy_s'
+     else if (strcmp(av[i], _in) == 0)strcpy_s(inpath, av[i + 1]), ipa = true;
+                                      ^~~~~~~~
+                                      wcscpy_s
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:70:39: error: 'strcpy_s' was not declared in this scope
+     else if (strcmp(av[i], _out) == 0)strcpy_s(outpath, av[i + 1]), opa = true;
+                                       ^~~~~~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:70:39: note: suggested alternative: 'wcscpy_s'
+     else if (strcmp(av[i], _out) == 0)strcpy_s(outpath, av[i + 1]), opa = true;
+                                       ^~~~~~~~
+                                       wcscpy_s
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:80:9: error: 'strcmp' was not declared in this scope
+     if (strcmp(av[i], _m) == 0)
+         ^~~~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:80:9: note: suggested alternative: 'strtol'
+     if (strcmp(av[i], _m) == 0)
+         ^~~~~~
+         strtol
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:90:38: error: 'strcpy_s' was not declared in this scope
+     else if (strcmp(av[i], _in) == 0)strcpy_s(inpath, av[i + 1]), ipa = true;
+                                      ^~~~~~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:90:38: note: suggested alternative: 'wcscpy_s'
+     else if (strcmp(av[i], _in) == 0)strcpy_s(inpath, av[i + 1]), ipa = true;
+                                      ^~~~~~~~
+                                      wcscpy_s
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:91:39: error: 'strcpy_s' was not declared in this scope
+     else if (strcmp(av[i], _out) == 0)strcpy_s(outpath, av[i + 1]), opa = true;
+                                       ^~~~~~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:91:39: note: suggested alternative: 'wcscpy_s'
+     else if (strcmp(av[i], _out) == 0)strcpy_s(outpath, av[i + 1]), opa = true;
+                                       ^~~~~~~~
+                                       wcscpy_s
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:97:9: error: 'strcmp' was not declared in this scope
+     if (strcmp(av[i], _s) == 0)muls = true;
+         ^~~~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:97:9: note: suggested alternative: 'strtol'
+     if (strcmp(av[i], _s) == 0)muls = true;
+         ^~~~~~
+         strtol
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:107:9: error: 'strcmp' was not declared in this scope
+     if (strcmp(av[i], _m) == 0)
+         ^~~~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:107:9: note: suggested alternative: 'strtol'
+     if (strcmp(av[i], _m) == 0)
+         ^~~~~~
+         strtol
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:117:38: error: 'strcpy_s' was not declared in this scope
+     else if (strcmp(av[i], _in) == 0)strcpy_s(inpath, av[i + 1]), ipa = true;
+                                      ^~~~~~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:117:38: note: suggested alternative: 'wcscpy_s'
+     else if (strcmp(av[i], _in) == 0)strcpy_s(inpath, av[i + 1]), ipa = true;
+                                      ^~~~~~~~
+                                      wcscpy_s
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:118:39: error: 'strcpy_s' was not declared in this scope
+     else if (strcmp(av[i], _out) == 0)strcpy_s(outpath, av[i + 1]), opa = true;
+                                       ^~~~~~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:118:39: note: suggested alternative: 'wcscpy_s'
+     else if (strcmp(av[i], _out) == 0)strcpy_s(outpath, av[i + 1]), opa = true;
+                                       ^~~~~~~~
+                                       wcscpy_s
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:136:7: error: 'strcmp' was not declared in this scope
+   if (strcmp(outpath, _s) == 0)printf(Error_outfile), printf(Std_form), exit(1);
+       ^~~~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:136:7: note: suggested alternative: 'strtol'
+   if (strcmp(outpath, _s) == 0)printf(Error_outfile), printf(Std_form), exit(1);
+       ^~~~~~
+       strtol
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:137:7: error: 'strcmp' was not declared in this scope
+   if (strcmp(outpath, _in) == 0)printf(Error_outfile), printf(Std_form), exit(1);
+       ^~~~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:137:7: note: suggested alternative: 'strtol'
+   if (strcmp(outpath, _in) == 0)printf(Error_outfile), printf(Std_form), exit(1);
+       ^~~~~~
+       strtol
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:138:7: error: 'strcmp' was not declared in this scope
+   if (strcmp(outpath, _out) == 0)printf(Error_outfile), printf(Std_form), exit(1);
+       ^~~~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:138:7: note: suggested alternative: 'strtol'
+   if (strcmp(outpath, _out) == 0)printf(Error_outfile), printf(Std_form), exit(1);
+       ^~~~~~
+       strtol
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:139:7: error: 'strcmp' was not declared in this scope
+   if (strcmp(outpath, _m) == 0)printf(Error_outfile), printf(Std_form), exit(1);
+       ^~~~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:139:7: note: suggested alternative: 'strtol'
+   if (strcmp(outpath, _m) == 0)printf(Error_outfile), printf(Std_form), exit(1);
+       ^~~~~~
+       strtol
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:140:7: error: 'strcmp' was not declared in this scope
+   if (strcmp(outpath, _n) == 0)printf(Error_outfile), printf(Std_form), exit(1);
+       ^~~~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:140:7: note: suggested alternative: 'strtol'
+   if (strcmp(outpath, _n) == 0)printf(Error_outfile), printf(Std_form), exit(1);
+       ^~~~~~
+       strtol
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:141:7: error: 'strcmp' was not declared in this scope
+   if (strcmp(inpath, outpath) == 0)
+       ^~~~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.cpp:141:7: note: suggested alternative: 'strtol'
+   if (strcmp(inpath, outpath) == 0)
+       ^~~~~~
+       strtol
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\Method.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+D:\code\java\software_test\repo\unzip\031702113\031702113-master\src\Sudoku\WaE.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+【结果： 1】
+【编译成功031702113 cpp】
+
+【开始编译031702114 cpp】
+【时间：2019.10.08 at 08:45:12】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702114/Sudoku.exe D:\code\java\software_test\repo\unzip\031702114\031702114-master\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702114\031702114-master\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702114\031702114-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+D:\code\java\software_test\repo\unzip\031702114\031702114-master\src\Sudoku\Sudoku.cpp: In function 'int main(int, char**)':
+D:\code\java\software_test\repo\unzip\031702114\031702114-master\src\Sudoku\Sudoku.cpp:107:15: error: cast from 'char*' to 'int' loses precision [-fpermissive]
+  m=int(argv[2])-48;
+               ^
+D:\code\java\software_test\repo\unzip\031702114\031702114-master\src\Sudoku\Sudoku.cpp:108:15: error: cast from 'char*' to 'int' loses precision [-fpermissive]
+  n=int(argv[4])-48;
+               ^
+【结果： 1】
+【编译成功031702114 cpp】
+
+【开始编译031702125 cpp】
+【时间：2019.10.08 at 08:45:15】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702125/suduku.exe D:\code\java\software_test\repo\unzip\031702125\031702125-master\031702125\src\suduku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702125 cpp】
+
+【开始编译031702129 cpp】
+【时间：2019.10.08 at 08:45:17】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702129/Sudoku.exe D:\code\java\software_test\repo\unzip\031702129\031702129-master\src\Sudoku.cpp】
+【指令输出】
+D:\code\java\software_test\repo\unzip\031702129\031702129-master\src\Sudoku.cpp:2:9: fatal error: stdafx.h: No such file or directory
+ #include"stdafx.h"
+         ^~~~~~~~~~
+compilation terminated.
+【结果： 1】
+【编译失败031702129 cpp】
+
+【开始编译031702130 java】
+【时间：2019.10.08 at 08:45:18】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031702130/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031702130/031702130-master/src/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031702130 java】
+
+【开始编译031702131 java】
+【时间：2019.10.08 at 08:45:19】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031702131/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031702131/hello-world-master/031702131/src/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031702131 java】
+
+【开始编译031702132 cpp】
+【时间：2019.10.08 at 08:45:21】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702132/sudoku.exe D:\code\java\software_test\repo\unzip\031702132\031702132-master\031702132\src\Sudoku\Sudoku\sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702132 cpp】
+
+【开始编译031702133 java】
+【时间：2019.10.08 at 08:45:23】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031702133/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031702133/S031702133-master/031702133/src/Sudoku/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031702133 java】
+
+【开始编译031702136 cpp】
+【时间：2019.10.08 at 08:45:27】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702136/Sudoku.exe D:\code\java\software_test\repo\unzip\031702136\031702136-master\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702136\031702136-master\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702136\031702136-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+D:\code\java\software_test\repo\unzip\031702136\031702136-master\src\Sudoku\pch.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+【结果： 0】
+【编译成功031702136 cpp】
+
+【开始编译031702140 cpp】
+【时间：2019.10.08 at 08:45:29】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702140/Sudoku.exe D:\code\java\software_test\repo\unzip\031702140\031702140-master\src\Sukodu\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702140 cpp】
+
+【开始编译031702142 java】
+【时间：2019.10.08 at 08:45:30】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031702142/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031702142/031702142-master/src/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031702142 java】
+
+【开始编译031702143 cpp】
+【时间：2019.10.08 at 08:45:35】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702143/Sudoku.exe D:\code\java\software_test\repo\unzip\031702143\031702143-master\src\Sudoku\grid.cpp D:\code\java\software_test\repo\unzip\031702143\031702143-master\src\Sudoku\grid.h D:\code\java\software_test\repo\unzip\031702143\031702143-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+D:\code\java\software_test\repo\unzip\031702143\031702143-master\src\Sudoku\grid.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+【结果： 0】
+【编译成功031702143 cpp】
+
+【开始编译031702145 cpp】
+【时间：2019.10.08 at 08:45:37】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702145/Sudoku.exe D:\code\java\software_test\repo\unzip\031702145\031702145-master\031702145\src\Sukodu\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702145 cpp】
+
+【开始编译031702206 cpp】
+【时间：2019.10.08 at 08:45:42】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702206/Sudoku.exe D:\code\java\software_test\repo\unzip\031702206\031702206-master\src\Sudoku\stdafx.cpp D:\code\java\software_test\repo\unzip\031702206\031702206-master\src\Sudoku\stdafx.h D:\code\java\software_test\repo\unzip\031702206\031702206-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702206 cpp】
+
+【开始编译031702208 java】
+【时间：2019.10.08 at 08:45:44】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031702208/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031702208/031702208-master/031702208/src/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031702208 java】
+
+【开始编译031702211 cpp】
+【时间：2019.10.08 at 08:45:48】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702211/Sudoku.exe D:\code\java\software_test\repo\unzip\031702211\031702211-master\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702211\031702211-master\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702211\031702211-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702211 cpp】
+
+【开始编译031702212 cpp】
+【时间：2019.10.08 at 08:45:53】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702212/Sudoku.exe D:\code\java\software_test\repo\unzip\031702212\031702212-master\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702212\031702212-master\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702212\031702212-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702212 cpp】
+
+【开始编译031702219 cpp】
+【时间：2019.10.08 at 08:45:56】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702219/Sudoku.exe D:\code\java\software_test\repo\unzip\031702219\031702219-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702219 cpp】
+
+【开始编译031702231 cpp】
+【时间：2019.10.08 at 08:46:00】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702231/Sudoku.exe D:\code\java\software_test\repo\unzip\031702231\031702231-master\031702231\src\Sudoku\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702231\031702231-master\031702231\src\Sudoku\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702231\031702231-master\031702231\src\Sudoku\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702231 cpp】
+
+【开始编译031702232 cpp】
+【时间：2019.10.08 at 08:46:04】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702232/Sudoku.exe D:\code\java\software_test\repo\unzip\031702232\031702232-master\src\Sudoku\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702232 cpp】
+
+【开始编译031702239 cpp】
+【时间：2019.10.08 at 08:46:08】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702239/sudoku.exe D:\code\java\software_test\repo\unzip\031702239\031702239-master\src\sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702239\031702239-master\src\sudoku\pch.h D:\code\java\software_test\repo\unzip\031702239\031702239-master\src\sudoku\sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702239 cpp】
+
+【开始编译031702241 java】
+【时间：2019.10.08 at 08:46:10】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031702241/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031702241/031702241-master/src/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031702241 java】
+
+【开始编译031702242 cpp】
+【时间：2019.10.08 at 08:46:18】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702242/Suduku.exe D:\code\java\software_test\repo\unzip\031702242\031702242-master\031702242\src\Sudoku\stdafx.h D:\code\java\software_test\repo\unzip\031702242\031702242-master\031702242\src\Sudoku\Suduku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702242 cpp】
+
+【开始编译031702243 cpp】
+【时间：2019.10.08 at 08:46:20】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702243/Sudoku.exe D:\code\java\software_test\repo\unzip\031702243\031702243-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702243 cpp】
+
+【开始编译031702248 cpp】
+【时间：2019.10.08 at 08:46:24】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702248/Sudoku.exe D:\code\java\software_test\repo\unzip\031702248\Nya-master\031702248\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702248\Nya-master\031702248\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702248\Nya-master\031702248\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702248 cpp】
+
+【开始编译031702302 cpp】
+【时间：2019.10.08 at 08:46:28】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702302/Sudoku.exe D:\code\java\software_test\repo\unzip\031702302\031702302-master\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702302\031702302-master\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702302\031702302-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702302 cpp】
+
+【开始编译031702313 cpp】
+【时间：2019.10.08 at 08:46:32】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702313/Sudoku.exe D:\code\java\software_test\repo\unzip\031702313\software_test-master\031702313\src\Sudoku\stdafx.cpp D:\code\java\software_test\repo\unzip\031702313\software_test-master\031702313\src\Sudoku\stdafx.h D:\code\java\software_test\repo\unzip\031702313\software_test-master\031702313\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702313 cpp】
+
+【开始编译031702322 cpp】
+【时间：2019.10.08 at 08:46:35】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702322/Sudoku.exe D:\code\java\software_test\repo\unzip\031702322\031702322-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702322 cpp】
+
+【开始编译031702325 cpp】
+【时间：2019.10.08 at 08:46:39】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702325/Sudoku.exe D:\code\java\software_test\repo\unzip\031702325\031702325-master\Sudoku\stdafx.h D:\code\java\software_test\repo\unzip\031702325\031702325-master\Sudoku\Sudoku\stdafx.cpp D:\code\java\software_test\repo\unzip\031702325\031702325-master\Sudoku\Sudoku\stdafx.h D:\code\java\software_test\repo\unzip\031702325\031702325-master\Sudoku\Sudoku.cpp】
+【指令输出】
+D:\code\java\software_test\repo\unzip\031702325\031702325-master\Sudoku\stdafx.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+D:\code\java\software_test\repo\unzip\031702325\031702325-master\Sudoku\Sudoku\stdafx.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+D:\code\java\software_test\repo\unzip\031702325\031702325-master\Sudoku\Sudoku.cpp: In function 'void intxt(std::__cxx11::string)':
+D:\code\java\software_test\repo\unzip\031702325\031702325-master\Sudoku\Sudoku.cpp:28:5: error: 'fscanf_s' was not declared in this scope
+     fscanf_s(fp, "%d", &bp[i][j]);
+     ^~~~~~~~
+D:\code\java\software_test\repo\unzip\031702325\031702325-master\Sudoku\Sudoku.cpp:28:5: note: suggested alternative: 'sscanf_s'
+     fscanf_s(fp, "%d", &bp[i][j]);
+     ^~~~~~~~
+     sscanf_s
+【结果： 1】
+【编译成功031702325 cpp】
+
+【编译失败031702326 】
+
+【开始编译031702327 cpp】
+【时间：2019.10.08 at 08:46:41】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702327/Sudoku.exe D:\code\java\software_test\repo\unzip\031702327\031702327-master\Sudoku(第三版,删去在cmd就显示结果的测试代码).cpp D:\code\java\software_test\repo\unzip\031702327\031702327-master\Sudoku(第二版).cpp D:\code\java\software_test\repo\unzip\031702327\031702327-master\Sudoku.cpp】
+【指令输出】
+D:\code\java\software_test\repo\unzip\031702327\031702327-master\Sudoku(第三版,删去在cmd就显示结果的测试代码).cpp:1:10: fatal error: pch.h: No such file or directory
+ 锘�#include "pch.h"
+          ^~~~~~~
+compilation terminated.
+D:\code\java\software_test\repo\unzip\031702327\031702327-master\Sudoku(第二版).cpp:1:10: fatal error: pch.h: No such file or directory
+ 锘�#include "pch.h"
+          ^~~~~~~
+compilation terminated.
+D:\code\java\software_test\repo\unzip\031702327\031702327-master\Sudoku.cpp:1:10: fatal error: pch.h: No such file or directory
+ 锘�#include "pch.h"
+          ^~~~~~~
+compilation terminated.
+【结果： 1】
+【编译失败031702327 cpp】
+
+【开始编译031702330 cpp】
+【时间：2019.10.08 at 08:46:45】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702330/Sudoku.exe D:\code\java\software_test\repo\unzip\031702330\sudoku-master\031702330\src\Sudoku\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702330\sudoku-master\031702330\src\Sudoku\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702330\sudoku-master\031702330\src\Sudoku\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702330 cpp】
+
+【开始编译031702337 cpp】
+【时间：2019.10.08 at 08:46:57】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702337/Sudoku.exe D:\code\java\software_test\repo\unzip\031702337\assignment-master\031702337\src\Sudoku\stdafx.cpp D:\code\java\software_test\repo\unzip\031702337\assignment-master\031702337\src\Sudoku\stdafx.h D:\code\java\software_test\repo\unzip\031702337\assignment-master\031702337\src\Sudoku\Sudoku.cpp D:\code\java\software_test\repo\unzip\031702337\assignment-master\031702337\src\Sudoku\targetver.h】
+【指令输出】
+D:\code\java\software_test\repo\unzip\031702337\assignment-master\031702337\src\Sudoku\stdafx.h:6:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+D:\code\java\software_test\repo\unzip\031702337\assignment-master\031702337\src\Sudoku\Sudoku.cpp: In function 'int main(int, char**)':
+D:\code\java\software_test\repo\unzip\031702337\assignment-master\031702337\src\Sudoku\Sudoku.cpp:176:27: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+  char *file_path = { "./" }, *output = { "./" };
+                           ^
+D:\code\java\software_test\repo\unzip\031702337\assignment-master\031702337\src\Sudoku\Sudoku.cpp:176:47: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+  char *file_path = { "./" }, *output = { "./" };
+                                               ^
+D:\code\java\software_test\repo\unzip\031702337\assignment-master\031702337\src\Sudoku\Sudoku.cpp:198:5: error: 'fscanf_s' was not declared in this scope
+     fscanf_s(fp, "%d", &sudo[i][j]);
+     ^~~~~~~~
+D:\code\java\software_test\repo\unzip\031702337\assignment-master\031702337\src\Sudoku\Sudoku.cpp:198:5: note: suggested alternative: 'sscanf_s'
+     fscanf_s(fp, "%d", &sudo[i][j]);
+     ^~~~~~~~
+     sscanf_s
+D:\code\java\software_test\repo\unzip\031702337\assignment-master\031702337\src\Sudoku\targetver.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+【结果： 1】
+【编译成功031702337 cpp】
+
+【开始编译031702338 cpp】
+【时间：2019.10.08 at 08:47:46】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702338/Sudoku.exe D:\code\java\software_test\repo\unzip\031702338\Software-Engineering-Practic-master\031702338\src\Sudoku\stdafx.cpp D:\code\java\software_test\repo\unzip\031702338\Software-Engineering-Practic-master\031702338\src\Sudoku\stdafx.h D:\code\java\software_test\repo\unzip\031702338\Software-Engineering-Practic-master\031702338\src\Sudoku\Sudoku.cpp D:\code\java\software_test\repo\unzip\031702338\Software-Engineering-Practic-master\031702338\src\Sudoku\targetver.h】
+【指令输出】
+D:\code\java\software_test\repo\unzip\031702338\Software-Engineering-Practic-master\031702338\src\Sudoku\stdafx.h:6:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+D:\code\java\software_test\repo\unzip\031702338\Software-Engineering-Practic-master\031702338\src\Sudoku\Sudoku.cpp: In function 'int main(int, char**)':
+D:\code\java\software_test\repo\unzip\031702338\Software-Engineering-Practic-master\031702338\src\Sudoku\Sudoku.cpp:112:19: error: 'sqrt' was not declared in this scope
+    else gr = gc = sqrt(m);
+                   ^~~~
+D:\code\java\software_test\repo\unzip\031702338\Software-Engineering-Practic-master\031702338\src\Sudoku\Sudoku.cpp:112:19: note: suggested alternative: 'qsort'
+    else gr = gc = sqrt(m);
+                   ^~~~
+                   qsort
+D:\code\java\software_test\repo\unzip\031702338\Software-Engineering-Practic-master\031702338\src\Sudoku\targetver.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+【结果： 1】
+【编译成功031702338 cpp】
+
+【开始编译031702339 cpp】
+【时间：2019.10.08 at 08:48:05】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702339/Sudoku.exe D:\code\java\software_test\repo\unzip\031702339\031702339-master\src\Sudoku\stdafx.cpp D:\code\java\software_test\repo\unzip\031702339\031702339-master\src\Sudoku\stdafx.h D:\code\java\software_test\repo\unzip\031702339\031702339-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+D:\code\java\software_test\repo\unzip\031702339\031702339-master\src\Sudoku\stdafx.h:6:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+【结果： 0】
+【编译成功031702339 cpp】
+
+【编译失败031702344 】
+
+【开始编译031702349 java】
+【时间：2019.10.08 at 08:48:07】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031702349/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031702349/031702349-master/031702349/src/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031702349 java】
+
+【开始编译031702409 cpp】
+【时间：2019.10.08 at 08:48:13】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702409/Sudoku.exe D:\code\java\software_test\repo\unzip\031702409\2019SoftwareEngineer-master\031702409\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702409\2019SoftwareEngineer-master\031702409\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702409\2019SoftwareEngineer-master\031702409\src\Sudoku\Sudoku.cpp】
+【指令输出】
+D:\code\java\software_test\repo\unzip\031702409\2019SoftwareEngineer-master\031702409\src\Sudoku\Sudoku.cpp: In function 'int main(int, char**)':
+D:\code\java\software_test\repo\unzip\031702409\2019SoftwareEngineer-master\031702409\src\Sudoku\Sudoku.cpp:144:3: error: 'memset' was not declared in this scope
+   memset(soduku, 0, 81);
+   ^~~~~~
+D:\code\java\software_test\repo\unzip\031702409\2019SoftwareEngineer-master\031702409\src\Sudoku\Sudoku.cpp:144:3: note: suggested alternative: 'wmemset'
+   memset(soduku, 0, 81);
+   ^~~~~~
+   wmemset
+【结果： 1】
+【编译成功031702409 cpp】
+
+【开始编译031702411 cpp】
+【时间：2019.10.08 at 08:48:22】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702411/Sudoku.exe D:\code\java\software_test\repo\unzip\031702411\031702411-master\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702411\031702411-master\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702411\031702411-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702411 cpp】
+
+【开始编译031702414 cpp】
+【时间：2019.10.08 at 08:48:32】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702414/Sudoku.exe D:\code\java\software_test\repo\unzip\031702414\031702414-master\src\Sudoku\stdafx.cpp D:\code\java\software_test\repo\unzip\031702414\031702414-master\src\Sudoku\stdafx.h D:\code\java\software_test\repo\unzip\031702414\031702414-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+D:\code\java\software_test\repo\unzip\031702414\031702414-master\src\Sudoku\stdafx.h:9:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+【结果： 0】
+【编译成功031702414 cpp】
+
+【编译失败031702415 】
+
+【开始编译031702416 java】
+【时间：2019.10.08 at 08:48:34】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031702416/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031702416/031702416-master/src/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031702416 java】
+
+【编译失败031702418 】
+
+【开始编译031702425 cpp】
+【时间：2019.10.08 at 08:48:37】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702425/Sudoku.exe D:\code\java\software_test\repo\unzip\031702425\031702425-master\src\Sudoku.cpp】
+【指令输出】
+D:\code\java\software_test\repo\unzip\031702425\031702425-master\src\Sudoku.cpp: In function 'int main(int, char**)':
+D:\code\java\software_test\repo\unzip\031702425\031702425-master\src\Sudoku.cpp:121:5: error: 'fscanf_s' was not declared in this scope
+     fscanf_s(input, "%d", &disksurface[i][j]);
+     ^~~~~~~~
+D:\code\java\software_test\repo\unzip\031702425\031702425-master\src\Sudoku.cpp:121:5: note: suggested alternative: 'sscanf_s'
+     fscanf_s(input, "%d", &disksurface[i][j]);
+     ^~~~~~~~
+     sscanf_s
+【结果： 1】
+【编译失败031702425 cpp】
+
+【开始编译031702435 java】
+【时间：2019.10.08 at 08:48:40】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031702435/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031702435/031702435-master/src/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031702435 java】
+
+【开始编译031702444 cpp】
+【时间：2019.10.08 at 08:48:53】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702444/Sudoku.exe D:\code\java\software_test\repo\unzip\031702444\031702444-master\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702444\031702444-master\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702444\031702444-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702444 cpp】
+
+【开始编译031702509 java】
+【时间：2019.10.08 at 08:48:56】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031702509/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031702509/031702509-master/src/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031702509 java】
+
+【开始编译031702510 cpp】
+【时间：2019.10.08 at 08:49:03】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702510/suduku.exe D:\code\java\software_test\repo\unzip\031702510\031702510-master\031702510\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702510\031702510-master\031702510\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702510\031702510-master\031702510\src\Sudoku\suduku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702510 cpp】
+
+【编译失败031702523 】
+
+【编译失败031702532 】
+
+【开始编译031702535 java】
+【时间：2019.10.08 at 08:49:05】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031702535/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031702535/031702535-master/src/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031702535 java】
+
+【开始编译031702536 cpp】
+【时间：2019.10.08 at 08:49:48】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702536/sudoku.exe D:\code\java\software_test\repo\unzip\031702536\homework-master\031702536\src\Sudoku\stdafx.cpp D:\code\java\software_test\repo\unzip\031702536\homework-master\031702536\src\Sudoku\stdafx.h D:\code\java\software_test\repo\unzip\031702536\homework-master\031702536\src\Sudoku\sudoku.cpp】
+【指令输出】
+In file included from D:\code\java\software_test\repo\unzip\031702536\homework-master\031702536\src\Sudoku\stdafx.cpp:5:0:
+D:\code\java\software_test\repo\unzip\031702536\homework-master\031702536\src\Sudoku\stdafx.h:8:10: fatal error: targetver.h: No such file or directory
+ #include "targetver.h"
+          ^~~~~~~~~~~~~
+compilation terminated.
+D:\code\java\software_test\repo\unzip\031702536\homework-master\031702536\src\Sudoku\stdafx.h:6:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+D:\code\java\software_test\repo\unzip\031702536\homework-master\031702536\src\Sudoku\stdafx.h:8:10: fatal error: targetver.h: No such file or directory
+ #include "targetver.h"
+          ^~~~~~~~~~~~~
+compilation terminated.
+【结果： 1】
+【编译失败031702536 cpp】
+
+【开始编译031702537 cpp】
+【时间：2019.10.08 at 08:49:59】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702537/Sudoku.exe D:\code\java\software_test\repo\unzip\031702537\031702537-master\031702537\src\Sudoku\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702537\031702537-master\031702537\src\Sudoku\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702537\031702537-master\031702537\src\Sudoku\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702537 cpp】
+
+【开始编译031702539 java】
+【时间：2019.10.08 at 08:50:01】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031702539/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031702539/031702539-master/src/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031702539 java】
+
+【开始编译031702541 java】
+【时间：2019.10.08 at 08:50:16】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031702541/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031702541/031702541-master/src/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031702541 java】
+
+【开始编译031702543 cpp】
+【时间：2019.10.08 at 08:50:18】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702543/Sudoku.exe D:\code\java\software_test\repo\unzip\031702543\031702543-master\031702543\src\Sudoku\stdafx.cpp D:\code\java\software_test\repo\unzip\031702543\031702543-master\031702543\src\Sudoku\stdafx.h D:\code\java\software_test\repo\unzip\031702543\031702543-master\031702543\src\Sudoku\Sudoku.cpp】
+【指令输出】
+In file included from D:\code\java\software_test\repo\unzip\031702543\031702543-master\031702543\src\Sudoku\stdafx.cpp:5:0:
+D:\code\java\software_test\repo\unzip\031702543\031702543-master\031702543\src\Sudoku\stdafx.h:8:10: fatal error: targetver.h: No such file or directory
+ #include "targetver.h"
+          ^~~~~~~~~~~~~
+compilation terminated.
+D:\code\java\software_test\repo\unzip\031702543\031702543-master\031702543\src\Sudoku\stdafx.h:6:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+D:\code\java\software_test\repo\unzip\031702543\031702543-master\031702543\src\Sudoku\stdafx.h:8:10: fatal error: targetver.h: No such file or directory
+ #include "targetver.h"
+          ^~~~~~~~~~~~~
+compilation terminated.
+In file included from D:\code\java\software_test\repo\unzip\031702543\031702543-master\031702543\src\Sudoku\Sudoku.cpp:4:0:
+D:\code\java\software_test\repo\unzip\031702543\031702543-master\031702543\src\Sudoku\stdafx.h:8:10: fatal error: targetver.h: No such file or directory
+ #include "targetver.h"
+          ^~~~~~~~~~~~~
+compilation terminated.
+【结果： 1】
+【编译失败031702543 cpp】
+
+【开始编译031702601 cpp】
+【时间：2019.10.08 at 08:50:20】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702601/Sudoku.exe D:\code\java\software_test\repo\unzip\031702601\031702601-master\src\sudoku\Sudoku.cpp】
+【指令输出】
+D:\code\java\software_test\repo\unzip\031702601\031702601-master\src\sudoku\Sudoku.cpp:9:1: error: expected ',' or ';' before 'int'
+ int b[2];                                 //鐢ㄤ簬瀛樻斁宸茬煡鏁板瓧
+ ^~~
+D:\code\java\software_test\repo\unzip\031702601\031702601-master\src\sudoku\Sudoku.cpp: In function 'void input()':
+D:\code\java\software_test\repo\unzip\031702601\031702601-master\src\sudoku\Sudoku.cpp:25:5: error: 'b' was not declared in this scope
+     b[t] = a[i][j];
+     ^
+D:\code\java\software_test\repo\unzip\031702601\031702601-master\src\sudoku\Sudoku.cpp: In function 'void search()':
+D:\code\java\software_test\repo\unzip\031702601\031702601-master\src\sudoku\Sudoku.cpp:39:8: error: 'b' was not declared in this scope
+    if (b[i] == c[j])                //閬囧埌鐩稿悓鏁板瓧锛岀敤6鍑忚繖涓暟锛屾渶鍚庡墿涓嬬殑灏辨槸绌虹己鐨勮繖涓暟
+        ^
+【结果： 1】
+【编译失败031702601 cpp】
+
+【开始编译031702602 cpp】
+【时间：2019.10.08 at 08:50:22】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702602/Sudoku.exe D:\code\java\software_test\repo\unzip\031702602\031702602-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702602 cpp】
+
+【开始编译031702603 cpp】
+【时间：2019.10.08 at 08:50:25】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702603/sudoku.exe D:\code\java\software_test\repo\unzip\031702603\031702603-master\src\Sudoku\sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702603 cpp】
+
+【编译失败031702609 】
+
+【开始编译031702632 cpp】
+【时间：2019.10.08 at 08:50:30】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702632/Suduku.exe D:\code\java\software_test\repo\unzip\031702632\031702632-master\src\Suduku\stdafx.cpp D:\code\java\software_test\repo\unzip\031702632\031702632-master\src\Suduku\stdafx.h D:\code\java\software_test\repo\unzip\031702632\031702632-master\src\Suduku\Suduku.cpp D:\code\java\software_test\repo\unzip\031702632\031702632-master\src\Suduku\targetver.h】
+【指令输出】
+D:\code\java\software_test\repo\unzip\031702632\031702632-master\src\Suduku\stdafx.h:6:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+D:\code\java\software_test\repo\unzip\031702632\031702632-master\src\Suduku\targetver.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+【结果： 0】
+【编译成功031702632 cpp】
+
+【开始编译071703323 cpp】
+【时间：2019.10.08 at 08:50:33】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/071703323/Sudoku.exe D:\code\java\software_test\repo\unzip\071703323\071703323-master\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\071703323\071703323-master\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\071703323\071703323-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+D:\code\java\software_test\repo\unzip\071703323\071703323-master\src\Sudoku\Sudoku.cpp: In function 'int main(int, char**)':
+D:\code\java\software_test\repo\unzip\071703323\071703323-master\src\Sudoku\Sudoku.cpp:151:5: error: 'fscanf_s' was not declared in this scope
+     fscanf_s(fp, "%d", &grid[i][j]);
+     ^~~~~~~~
+D:\code\java\software_test\repo\unzip\071703323\071703323-master\src\Sudoku\Sudoku.cpp:151:5: note: suggested alternative: 'sscanf_s'
+     fscanf_s(fp, "%d", &grid[i][j]);
+     ^~~~~~~~
+     sscanf_s
+【结果： 1】
+【编译成功071703323 cpp】
+
+【开始编译081700414 cpp】
+【时间：2019.10.08 at 08:50:38】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/081700414/Sudoku.exe D:\code\java\software_test\repo\unzip\081700414\HOMEWORK-master\081700414\src\Sudoku\stdafx.cpp D:\code\java\software_test\repo\unzip\081700414\HOMEWORK-master\081700414\src\Sudoku\stdafx.h D:\code\java\software_test\repo\unzip\081700414\HOMEWORK-master\081700414\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功081700414 cpp】
+
+【开始编译131700101 cpp】
+【时间：2019.10.08 at 08:50:43】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/131700101/Sudoku.exe D:\code\java\software_test\repo\unzip\131700101\suduku_131700101-master\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\131700101\suduku_131700101-master\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\131700101\suduku_131700101-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功131700101 cpp】
+
+【开始编译031702536 cpp】
+【时间：2019.10.07 at 20:34:21】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702536/sudoku.exe D:\code\java\software_test\repo\unzip\031702536\homework-master\031702536\src\Sudoku\stdafx.cpp D:\code\java\software_test\repo\unzip\031702536\homework-master\031702536\src\Sudoku\stdafx.h D:\code\java\software_test\repo\unzip\031702536\homework-master\031702536\src\Sudoku\sudoku.cpp】
+【指令输出】
+In file included from D:\code\java\software_test\repo\unzip\031702536\homework-master\031702536\src\Sudoku\stdafx.cpp:5:0:
+D:\code\java\software_test\repo\unzip\031702536\homework-master\031702536\src\Sudoku\stdafx.h:8:10: fatal error: targetver.h: No such file or directory
+ #include "targetver.h"
+          ^~~~~~~~~~~~~
+compilation terminated.
+D:\code\java\software_test\repo\unzip\031702536\homework-master\031702536\src\Sudoku\stdafx.h:6:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+D:\code\java\software_test\repo\unzip\031702536\homework-master\031702536\src\Sudoku\stdafx.h:8:10: fatal error: targetver.h: No such file or directory
+ #include "targetver.h"
+          ^~~~~~~~~~~~~
+compilation terminated.
+【结果： 1】
+【编译失败031702536 cpp】
+
+【开始编译031702242 cpp】
+【时间：2019.10.07 at 20:39:34】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702242/Suduku.exe D:\code\java\software_test\repo\unzip\031702242\031702242-master\031702242\src\Sudoku\stdafx.h D:\code\java\software_test\repo\unzip\031702242\031702242-master\031702242\src\Sudoku\Suduku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702242 cpp】
+
+【开始编译031702212 cpp】
+【时间：2019.10.07 at 20:41:44】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702212/Sudoku.exe D:\code\java\software_test\repo\unzip\031702212\031702212-master\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702212\031702212-master\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702212\031702212-master\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702212 cpp】
+
+【开始编译031702539 java】
+【时间：2019.10.07 at 20:43:04】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031702539/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031702539/031702539-master/src/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031702539 java】
+
+【开始编译031702133 java】
+【时间：2019.10.07 at 20:48:12】
+【指令：javac -d D:/code/java/software_test/repo/unzip/031702133/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/031702133/S031702133-master/031702133/src/Sudoku/*.java】
+【指令输出】
+【结果： 0】
+【编译成功031702133 java】
+
+【开始编译031702140 cpp】
+【时间：2019.10.07 at 20:59:00】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702140/Sudoku.exe D:\code\java\software_test\repo\unzip\031702140\031702140-master\src\Sukodu\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702140 cpp】
+
+【开始编译031702248 cpp】
+【时间：2019.10.07 at 21:02:12】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/031702248/Sudoku.exe D:\code\java\software_test\repo\unzip\031702248\Nya-master\031702248\src\Sudoku\pch.cpp D:\code\java\software_test\repo\unzip\031702248\Nya-master\031702248\src\Sudoku\pch.h D:\code\java\software_test\repo\unzip\031702248\Nya-master\031702248\src\Sudoku\Sudoku.cpp】
+【指令输出】
+【结果： 0】
+【编译成功031702248 cpp】
+

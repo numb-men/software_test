@@ -1,0 +1,24 @@
+.idea
+
+repo/unzip/*
+
+repo/zip/*
+
+log - 副本.json
+
+input.txt
+output.txt
+
+software_test_log.xlsx
+test_result.main.xlsx
+test_result_pre.xlsx
+test_result.xlsx
+
+target
+
+src/main/resources/students.xlsx
+
+src/main/resources/task3.xlsx
+
+log/compile.log.pre.txt
+log/test.log.pre.txt
